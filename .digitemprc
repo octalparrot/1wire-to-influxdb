@@ -1,0 +1,6 @@
+TTY /dev/ttyUSB0
+READ_TIME 1000
+LOG_TYPE 1
+LOG_FORMAT "%b %d;%H:%M:%S;Sensor;%R;%.2C"
+CNT_FORMAT "%b %d;%H:%M:%S;Sensor;%R;#%n;%C"
+HUM_FORMAT "%b %d %H:%M:%S Sensor %s C: %.2C F: %.2F H: %h%%"
