@@ -11,5 +11,5 @@ You could add it in cron to do this repeatedly.
 ```
 1. Copy and place .digitemprc to your $HOME folder in my cause root
 2. Run digitemp_DS9097U -i to initialize file with your serial numbers.
-3. Run temp.sh
+3. Edit variables in temp.sh, then run or add it to cron :)
 ```
